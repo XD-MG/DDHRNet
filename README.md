@@ -1,7 +1,7 @@
 # DDHRNet
 Code for paper DDHRNet
 
-Project is based on PaddlePaddle1.8.5
+Project is based on PaddlePaddle1.8.5 (The dygraph version will be upload soon)
 
 The Dual_stream Deep High-resolution Net (DDHRNet) model is avaliable in DDHRNet_code/models/modeling/ddhrnet.py
 
@@ -14,3 +14,5 @@ Use DDHRNet_code/tools/create_data_list.py to create data list
 run DDHRNet_code/train.sh for the training process
 
 More detiles will be added
+
+Thanks to [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg/tree/release/v0.8.0)
