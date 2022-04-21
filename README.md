@@ -12,3 +12,5 @@ Data is avaliable: [Google Drive](https://drive.google.com/file/d/1DAojDL2IjuJjW
 Use DDHRNet_code/tools/create_data_list.py to create data list
 
 run DDHRNet_code/train.sh for the training process
+
+More detiles will be added
