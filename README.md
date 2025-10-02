@@ -1,6 +1,11 @@
 # DDHRNet
 Code for paper DDHRNet
 
+## Latest
+- Release of the Xian and Pohang Large-Resolution Datasets, please see [Baidu Drive](https://pan.baidu.com/s/11VmCZukS2h7oc0_F11bFiA?pwd=k5wt) for details.
+
+---
+
 Project is based on PaddlePaddle1.8.5 (The dygraph version will be upload soon)
 
 The Dual_stream Deep High-resolution Net (DDHRNet) model is avaliable in DDHRNet_code/models/modeling/ddhrnet.py
