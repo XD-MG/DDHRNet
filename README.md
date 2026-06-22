@@ -5,7 +5,8 @@ Code and dataset for paper [DDHRNet: A dual-stream high resolution network: Deep
 
 
 ## Latest
-- ✨Release of the Xian, Pohang and Shandong Large-Resolution Datasets, please see [Baidu Drive](https://pan.baidu.com/s/11VmCZukS2h7oc0_F11bFiA?pwd=k5wt) or [Google Drive](https://drive.google.com/drive/folders/1lJimV28md7mtD1DsLY3Uy0kwT_MzIzi9?usp=sharing) for details.
+- ⏳Due to various issues, such as data governance, please contact boren@xidian.edu.cn if necessary.
+- ✨Release of the Xian, Pohang and Shandong Large-Resolution Datasets.
 
 ---
 
